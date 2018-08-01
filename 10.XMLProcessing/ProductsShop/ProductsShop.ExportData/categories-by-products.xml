@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <category name="Sports">
+    <products-count>23</products-count>
+    <average-price>745.930434</average-price>
+    <total-revenue>17156.40</total-revenue>
+  </category>
+  <category name="Fashion">
+    <products-count>22</products-count>
+    <average-price>862.772727</average-price>
+    <total-revenue>18981.00</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <products-count>20</products-count>
+    <average-price>714.570000</average-price>
+    <total-revenue>14291.40</total-revenue>
+  </category>
+  <category name="Garden">
+    <products-count>20</products-count>
+    <average-price>883.018500</average-price>
+    <total-revenue>17660.37</total-revenue>
+  </category>
+  <category name="Drugs">
+    <products-count>19</products-count>
+    <average-price>845.758421</average-price>
+    <total-revenue>16069.41</total-revenue>
+  </category>
+  <category name="Weapons">
+    <products-count>18</products-count>
+    <average-price>781.393888</average-price>
+    <total-revenue>14065.09</total-revenue>
+  </category>
+  <category name="Business">
+    <products-count>18</products-count>
+    <average-price>486.933888</average-price>
+    <total-revenue>8764.81</total-revenue>
+  </category>
+  <category name="Electronics">
+    <products-count>18</products-count>
+    <average-price>758.332222</average-price>
+    <total-revenue>13649.98</total-revenue>
+  </category>
+  <category name="Other">
+    <products-count>16</products-count>
+    <average-price>765.186250</average-price>
+    <total-revenue>12242.98</total-revenue>
+  </category>
+  <category name="For Children">
+    <products-count>14</products-count>
+    <average-price>911.307857</average-price>
+    <total-revenue>12758.31</total-revenue>
+  </category>
+  <category name="Adult">
+    <products-count>12</products-count>
+    <average-price>701.118333</average-price>
+    <total-revenue>8413.42</total-revenue>
+  </category>
+</categories>
