@@ -1,0 +1,6 @@
+install-package microsoft.entityframeworkcore 							
+install-package microsoft.entityframeworkcore.sqlserver					
+install-package microsoft.entityframeworkcore.sqlserver.design
+install-package microsoft.entityframeworkcore.proxies
+install-package microsoft.entityframeworkcore.tools 					
+install-package automapper 
